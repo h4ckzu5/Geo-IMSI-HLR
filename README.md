@@ -3,9 +3,6 @@ Geolocalizacion Numero Celular Telegram HLR v.Beta
 
 ⚠️ LOCALIZADO ⚠️
 
-<img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/1b0c2427-700c-4cfe-aa73-25348ef74b6a" />
-
-
 <img width="1600" height="900" alt="Captura de pantalla_2025-07-24_13-00-15" src="https://github.com/user-attachments/assets/92c37aca-3ef7-4104-bd64-5e5803546321" />
 
 
@@ -20,3 +17,8 @@ https://github.com/user-attachments/assets/ab59c03b-4b0f-43d1-8624-b9c58c3f5100
 ⚠️ ENVIO A TELEGRAM ⚠️
 
 <img width="1600" height="900" alt="Captura de pantalla_2025-07-24_12-57-25" src="https://github.com/user-attachments/assets/741ecd24-181c-41b1-ad54-baf3209fc3e6" />
+
+
+EN PREPARACION EL MODO WEB
+
+<img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/618fa4ba-ba63-4dde-8783-d74f157e8021" />
