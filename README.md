@@ -58,6 +58,6 @@ El mal uso es **responsabilidad exclusiva del usuario**.
 ## ✉️ Contacto
 
 > Proyecto desarrollado por **h4ckzu5**  
-📧 Telegram: [@tu_usuario](https://t.me/h4ckzu5)  
+📧 Telegram: [@h4ckzu5](https://t.me/h4ckzu5)  
 🕷 GitHub: [github.com/h4ckzu5](https://github.com/h4ckzu5)
 
