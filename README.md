@@ -10,8 +10,6 @@ Demo de mi herramienta
 
 [https://github.com/user-attachments/assets/ab59c03b-4b0f-43d1-8624-b9c58c3f5100](https://private-user-images.githubusercontent.com/25681142/467732982-ab59c03b-4b0f-43d1-8624-b9c58c3f5100.mp4)
 
-<br>
-<br>
 ⚠️ DATOS ⚠️
 
 <img width="710" height="413" alt="Captura de pantalla_2025-07-24_13-01-42" src="https://github.com/user-attachments/assets/c99b85b0-9a2a-4599-a939-3d93bd5dbd03" />
