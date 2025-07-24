@@ -1,25 +1,26 @@
-# TelegramHLR
-Geolocalizacion Numero Celular Telegram HLR v.Beta
+🚨 TelegramHLR 🚨
+Geolocalización de Números vía Telegram HLR — v.Beta
 
-⚠️ LOCALIZADO ⚠️
+📍 🔒 LOCALIZADO CON ÉXITO
 
 <img width="1600" height="900" alt="Captura de pantalla_2025-07-24_13-00-15" src="https://github.com/user-attachments/assets/92c37aca-3ef7-4104-bd64-5e5803546321" />
 <br>
 <br>
-Demo de mi herramienta
+🎬 DEMO EN VIDEO
+¿Quieres ver la herramienta en acción? Acá la tienes:
 
 [https://github.com/user-attachments/assets/ab59c03b-4b0f-43d1-8624-b9c58c3f5100](https://private-user-images.githubusercontent.com/25681142/467732982-ab59c03b-4b0f-43d1-8624-b9c58c3f5100.mp4)
 
-⚠️ DATOS ⚠️
+📊 DATOS RECOLECTADOS
 
 <img width="710" height="413" alt="Captura de pantalla_2025-07-24_13-01-42" src="https://github.com/user-attachments/assets/c99b85b0-9a2a-4599-a939-3d93bd5dbd03" />
 
-⚠️ ENVIO A TELEGRAM ⚠️
+📤 ENVÍO AUTOMÁTICO A TELEGRAM
 
 <img width="1600" height="900" alt="Captura de pantalla_2025-07-24_12-57-25" src="https://github.com/user-attachments/assets/741ecd24-181c-41b1-ad54-baf3209fc3e6" />
 
 <br>
 <br>
-⚠️ EN PREPARACION EL MODO WEB ⚠️
+🌐 MODO WEB — EN DESARROLLO...
 
 <img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/618fa4ba-ba63-4dde-8783-d74f157e8021" />
