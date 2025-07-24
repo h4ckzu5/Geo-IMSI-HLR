@@ -1,8 +1,8 @@
 # 🚨 TelegramHLR — Geolocalización de Número Celular `v.Beta`  
-╔═══════╦═══════════════════════════════╦═════════╗
-| H L R | Registro de Ubicación Celular | I M S I |
-╚═══════╩═══════════════════════════════╩═════════╝
 
+╔════════╦═════════════════════════════════════╦═════════╗
+║ H L R ║ Registro de Ubicación de Celulares ║ I M S I║
+╚════════╩═════════════════════════════════════╩═════════╝
 ---
 
 ## 📍 LOCALIZACIÓN EXITOSA
