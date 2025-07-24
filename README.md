@@ -20,6 +20,6 @@ https://github.com/user-attachments/assets/ab59c03b-4b0f-43d1-8624-b9c58c3f5100
 
 <br>
 <br>
-EN PREPARACION EL MODO WEB
+⚠️ EN PREPARACION EL MODO WEB ⚠️
 
 <img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/618fa4ba-ba63-4dde-8783-d74f157e8021" />
