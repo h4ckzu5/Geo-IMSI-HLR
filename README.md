@@ -4,7 +4,7 @@ Valida y obtiene información del número (HLR/IMSI)
 
 Geolocaliza la posición en tiempo real
 
-Envía alertas a Telegram y WhatsApp
+Envía alertas a Telegram con la Geolocalizacion
 
 Muestra información de IP, User-Agent y coordenadas
 
