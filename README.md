@@ -1,4 +1,16 @@
-# 🚨 TelegramHLR — Geolocalización de Número Celular `v.Beta`  
+# 🚨 Geo-IMSI-HLR
+
+Valida y obtiene información del número (HLR/IMSI)
+
+Geolocaliza la posición en tiempo real
+
+Envía alertas a Telegram y WhatsApp
+
+Muestra información de IP, User-Agent y coordenadas
+
+Activa alertas visuales locales cuando se recibe la ubicación
+
+Rastreo completo y visualización inmediata: control total desde tu terminal  
 
 <pre>
                     ╔═════════════╦═══════════════════════════════════╦═══════════╗
