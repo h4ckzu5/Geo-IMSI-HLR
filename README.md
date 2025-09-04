@@ -1,16 +1,16 @@
 # 🚨 Geo-IMSI-HLR
 
-Valida y obtiene información del número (HLR/IMSI)
+- Valida y obtiene información del número (HLR/IMSI)
 
-Geolocaliza la posición en tiempo real
+- Geolocaliza la posición en tiempo real
 
-Envía alertas a Telegram con la Geolocalizacion
+- Envía alertas a Telegram con la Geolocalizacion
 
-Muestra información de IP, User-Agent y coordenadas
+- Muestra información de IP, User-Agent y coordenadas
 
-Activa alertas visuales locales cuando se recibe la ubicación
+- Activa alertas visuales locales cuando se recibe la ubicación
 
-Rastreo completo y visualización inmediata: control total desde tu terminal  
+- Rastreo completo y visualización inmediata: control total desde tu terminal  
 
 <pre>
                     ╔═════════════╦═══════════════════════════════════╦═══════════╗
@@ -20,7 +20,7 @@ Rastreo completo y visualización inmediata: control total desde tu terminal
 ---
 
 ## 🚀 Última actualización: Versión 3.0 - Beta.1
-- ⚡ Funcionalidades mejoradas: Geolocalización en tiempo real, alertas instantáneas, spoof de URLs.  
+- ⚡ Funcionalidades mejoradas: Geolocalización en tiempo real, alertas instantáneas.  
 - 🎉 Interfaz más amigable + integración con Telegram.  
 - 😲 Experiencia rápida y confiable, lista para demos y pruebas educativas. 
 
