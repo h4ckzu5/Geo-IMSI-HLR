@@ -19,7 +19,10 @@ Rastreo completo y visualización inmediata: control total desde tu terminal
 
 ---
 
-## ⚡ ACTUALIZADA ⚡
+## 🚀 Última actualización: Versión 3.0 - Beta.1
+- ⚡ Funcionalidades mejoradas: Geolocalización en tiempo real, alertas instantáneas, spoof de URLs.  
+- 🎉 Interfaz más amigable + integración con Telegram.  
+- 😲 Experiencia rápida y confiable, lista para demos y pruebas educativas. 
 
 <img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/99268f1b-a8e7-4117-84a3-cd5d068af711" />
 
