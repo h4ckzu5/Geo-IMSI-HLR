@@ -37,7 +37,7 @@
                                         █  ▀██  █▌  ▓██  █▌      ➤ Pastebin  : pastebin.com/u/h4ckzu5                      
                                        `╙     ███▌██▀     ▌      ➤ Youtube   : youtube.com/channel/UC5CeFpZY5Tckg5BaV80e5Q 
                                                 ██                                                                         
-                                                █▌              [*] Geo-IMSI-HLR    : Versión 3.0 - Beta.1                                    
+                                                █▌              [*] Geo-IMSI-HLR : Versión 3.0 - Beta.1                                    
 
 # 🚨 Geo-IMSI-HLR
 
