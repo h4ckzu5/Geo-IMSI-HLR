@@ -65,7 +65,7 @@
 - 🎉 Interfaz más amigable + integración con Telegram.  
 - 😲 Experiencia rápida y confiable, lista para demos y pruebas educativas. 
 
-<img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/99268f1b-a8e7-4117-84a3-cd5d068af711" />
+<img width="1280" height="720" alt="imagen" src="https://github.com/user-attachments/assets/fe1b26c1-1ef6-40c4-aac3-84e9b38a8c56" />
 
 ---
 
