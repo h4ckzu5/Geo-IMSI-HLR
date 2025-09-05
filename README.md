@@ -61,8 +61,7 @@
 ---
 
 ## 🚀 Última actualización: Versión 3.0 - Beta.1
-- ⚡ Funcionalidades mejoradas: Geolocalización en tiempo real, alertas instantáneas.  
-- 🎉 Interfaz más amigable + integración con Telegram.  
+- 🎉 Interfaz más amigable.  
 - 😲 Experiencia rápida y confiable, lista para demos y pruebas educativas. 
 
 <img width="1280" height="720" alt="imagen" src="https://github.com/user-attachments/assets/fe1b26c1-1ef6-40c4-aac3-84e9b38a8c56" />
