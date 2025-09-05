@@ -68,11 +68,6 @@
 
 ---
 
-<img width="1600" height="900" alt="imagen" src="https://github.com/user-attachments/assets/a9de5414-7dc1-43a7-86db-6ff4880646e7" />
-
-
----
-
 ## 📍 LOCALIZACIÓN EXITOSA
 
 <img width="1600" height="900" alt="Captura" src="https://github.com/user-attachments/assets/92c37aca-3ef7-4104-bd64-5e5803546321" />
