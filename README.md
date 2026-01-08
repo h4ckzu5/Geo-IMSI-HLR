@@ -113,7 +113,7 @@ https://youtu.be/ybxXXI7JjpQ?si=d2KPov4hTztFonz1
 - 🤖 Integración completa con **Telegram** para envío automatizado de resultados.
 - 🧪 Pensado para **OSINT**, **pentesting** y **análisis forense**.
 - 🧩 Interfaz gráfica local basada en Flask.
-- 🌐 Modo Web (en preparación).
+- 🌐 Modo Web o la app de Telegram.
 
 ---
 
