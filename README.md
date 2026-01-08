@@ -95,10 +95,14 @@ https://github.com/user-attachments/assets/764fc16d-8932-4567-98fe-93ef5ee667b6
 
 ---
 
-## 🌐 MODO WEB — EN DESARROLLO
+## 🌐 Geolocalización en Tiempo Real con Bot de Telegram
 
-> Próximamente podrás usarlo directamente desde el navegador.  
-<img width="1600" height="900" alt="Web" src="https://github.com/user-attachments/assets/618fa4ba-ba63-4dde-8783-d74f157e8021" />
+> Podrás usarlo directamente desde el navegador o la app.  
+<img width="1600" height="900" alt="Captura de pantalla_20260106_150348" src="https://github.com/user-attachments/assets/2f60d892-a31d-4808-a9c2-4cdc4161f050" />
+
+## 🎬 DEMO EN VIDEO
+
+https://youtu.be/ybxXXI7JjpQ?si=d2KPov4hTztFonz1
 
 ---
 
