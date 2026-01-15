@@ -35,7 +35,7 @@
                                          █▀    ████╙    █        ➤ Github    : github.com/h4ckzu5                          
                                         ▄████████████████▌       ➤ Twitter   : twitter.com/h4ckzu5                                     
                                         █  ▀██  █▌  ▓██  █▌      ➤ Pastebin  : pastebin.com/u/h4ckzu5                      
-                                       `╙     ███▌██▀     ▌      ➤ Youtube   : youtube.com/channel/UC5CeFpZY5Tckg5BaV80e5Q 
+                                       `╙     ███▌██▀     ▌      ➤ Youtube   : youtube.com/channel/UC5CeFpZY5Tckg5BaV80e5Qw 
                                                 ██                                                                         
                                                 █▌              [*] Geo-IMSI-HLR : Versión 3.0 - Beta.1                                    
 
