@@ -89,7 +89,7 @@ https://github.com/user-attachments/assets/764fc16d-8932-4567-98fe-93ef5ee667b6
 
 ---
 
-## 📤 ENVÍO A TELEGRAM
+## 📤 ENVÍO Y USO DESDE TELEGRAM
 
 <img width="541" height="868" alt="Captura de pantalla_20260121_224132" src="https://github.com/user-attachments/assets/82f95968-686b-4b43-81cc-864e8fe3d1f8" />
 
