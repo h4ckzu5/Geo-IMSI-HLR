@@ -102,7 +102,9 @@ https://github.com/user-attachments/assets/764fc16d-8932-4567-98fe-93ef5ee667b6
 
 ## 🎬 DEMO EN VIDEO
 
-https://github.com/user-attachments/assets/78201b75-c743-40b6-ad0e-dd18811933fe
+https://github.com/user-attachments/assets/8d6fe8ee-e2f7-453b-b634-c281fb9393f7
+
+
 
 ---
 
