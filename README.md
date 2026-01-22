@@ -91,14 +91,14 @@ https://github.com/user-attachments/assets/764fc16d-8932-4567-98fe-93ef5ee667b6
 
 ## 📤 ENVÍO A TELEGRAM
 
-<img width="1600" height="900" alt="Telegram" src="https://github.com/user-attachments/assets/741ecd24-181c-41b1-ad54-baf3209fc3e6" />
+<img width="541" height="868" alt="Captura de pantalla_20260121_224132" src="https://github.com/user-attachments/assets/82f95968-686b-4b43-81cc-864e8fe3d1f8" />
 
 ---
 
 ## 🌐 Geolocalización en Tiempo Real con Bot de Telegram
 
-> Podrás usarlo directamente desde el navegador o la app.  
-<img width="1600" height="900" alt="Captura de pantalla_20260106_150348" src="https://github.com/user-attachments/assets/2f60d892-a31d-4808-a9c2-4cdc4161f050" />
+> Podrás monitorearlo directamente desde el navegador con su dashboard.  
+<img width="1600" height="900" alt="Captura de pantalla_20260121_224456" src="https://github.com/user-attachments/assets/b0a62755-34d8-497d-ae97-f319a1ee4132" />
 
 ## 🎬 DEMO EN VIDEO
 
@@ -111,7 +111,8 @@ https://github.com/user-attachments/assets/8d6fe8ee-e2f7-453b-b634-c281fb9393f7
 ## 🛠️ Características
 
 - 📲 Detección HLR (Home Location Register) de números móviles.
-- 🌍 Geolocalización aproximada mediante APIs externas.
+- 🌍 Geolocalización mediante APIs externas.
+- 👤 Extrae el **Nombre** registrado con ese **Numero**. 
 - 🤖 Integración completa con **Telegram** para envío automatizado de resultados.
 - 🧪 Pensado para **OSINT**, **pentesting** y **análisis forense**.
 - 🧩 Interfaz gráfica local basada en Flask.
